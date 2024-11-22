@@ -1,0 +1,5 @@
+# macOS stuff
+.DS_Storage
+
+# compiler output
+GetraenkeAutomat/out
